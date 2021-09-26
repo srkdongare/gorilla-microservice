@@ -7,9 +7,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/srkdongare/gorilla-microservice/product-api/data"
-
 	"github.com/gorilla/mux"
+	"github.com/srkdongare/gorilla-microservice/product-api/data"
 )
 
 // Products is a http.Handler
